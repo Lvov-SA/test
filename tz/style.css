@@ -1,0 +1,24 @@
+ul{
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+        position: fixed;
+	    top: 0pt;
+		font: 25pt sans-serif;
+        left: 0%;
+        right: 0%;
+		height: 10%; /* Высота шапки */
+		background-color: #973a00;
+		}
+li {
+    display: inline;
+}
+body {
+    margin-top: 10%;
+    font: 100% sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 80%; /* Максимальная ширина страницы */
+}
+
+		
